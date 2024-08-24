@@ -1,1 +1,1 @@
-# SC2006---SCSE-Buddy
+# Code for android frontend
